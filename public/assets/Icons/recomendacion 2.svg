@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="25px" viewBox="0 0 28 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Tools / Instruments / portfolio / 24</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.658824 0 0 0 0 0.729412 0 0 0 0 0.756863 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tools-/-Instruments-/-portfolio-/-24" transform="translate(-2.000000, -3.000000)" filter="url(#filter-1)">
+            <g>
+                <path d="M28,9.6875 L22,9.6875 L22,5.8125 C22,4.7424483 21.1045695,3.875 20,3.875 L12,3.875 C10.8954305,3.875 10,4.7424483 10,5.8125 L10,9.6875 L4,9.6875 C2.8954305,9.6875 2,10.5549483 2,11.625 L2,25.1875 C2,26.2575517 2.8954305,27.125 4,27.125 L28,27.125 C29.1045695,27.125 30,26.2575517 30,25.1875 L30,11.625 C30,10.5549483 29.1045695,9.6875 28,9.6875 Z M12,5.8125 L20,5.8125 L20,9.6875 L12,9.6875 L12,5.8125 Z M4,25.1875 L4,11.625 L28,11.625 L28,25.1875 L4,25.1875 Z" id="Fill" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

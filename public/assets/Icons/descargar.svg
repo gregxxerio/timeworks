@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="20px" viewBox="0 0 27 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Actions / Navigation / down-to-bottom / 24</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.132066 0 0 0 0 0.100366 0 0 0 0 0.328606 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Actions-/-Navigation-/-down-to-bottom-/-24" transform="translate(-4.000000, -8.000000)" filter="url(#filter-1)">
+            <g>
+                <path d="M17.5,20.78125 L6.5625,9.84375 L8.1046875,8.3015625 L17.5,17.6859375 L26.8953125,8.3015625 L28.4375,9.84375 L17.5,20.78125 Z M4.375,25.15625 L30.625,25.15625 L30.625,27.34375 L4.375,27.34375 L4.375,25.15625 Z" id="Fill" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Actions / Formatting / contrast / 24</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.294118 0 0 0 0 0.717647 0 0 0 0 0.454902 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Actions-/-Formatting-/-contrast-/-24" transform="translate(-1.000000, -1.000000)" filter="url(#filter-1)">
+            <g>
+                <path d="M22.0275,8.88 C21.8261838,8.22746986 21.5598476,7.59680574 21.2325,6.9975 C20.7484918,6.10800958 20.1398377,5.29226155 19.425,4.575 C15.3243844,0.474802768 8.67634685,0.475028892 4.57601014,4.57550507 C0.475673438,8.67598124 0.475673438,15.3240188 4.57601014,19.4244949 C8.67634685,23.5249711 15.3243844,23.5251972 19.425,19.425 C20.1398377,18.7077384 20.7484918,17.8919904 21.2325,17.0025 C21.5598476,16.4031943 21.8261838,15.7725301 22.0275,15.12 C22.6598375,13.088059 22.6598375,10.911941 22.0275,8.88 L22.0275,8.88 Z M3,12 C3,7.02943725 7.02943725,3 12,3 L12,21 C7.02943725,21 3,16.9705627 3,12 Z" id="Fill" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>

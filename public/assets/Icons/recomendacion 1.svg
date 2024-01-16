@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Brand / IBM / ibm-security / 24</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.658824 0 0 0 0 0.729412 0 0 0 0 0.756863 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Iconos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brand-/-IBM-/-ibm-security-/-24" transform="translate(-4.000000, 0.000000)" filter="url(#filter-1)">
+            <g>
+                <path d="M16,0 L4,5.55954 L4,18.64092 C4,24.8044177 9.37258307,29.8009198 16,29.8009198 C22.6274169,29.8009198 28,24.8044177 28,18.64092 L28,5.55954 L16,0 Z M22.83,25.40202 L16,22.23816 L16,24.3102 L21.036,26.64357 C17.948157,28.3162108 14.135354,28.3297267 11.03389,26.6790263 C7.93242593,25.0283259 6.01350775,21.9642008 6,18.64092 L6,6.7053 L16,2.07204 L26,6.7053 L26,10.1928 L16,5.55954 L16,7.63158 L26,12.26484 L26,15.75234 L16,11.11908 L16,13.19112 L26,17.82438 L26,18.64092 C26.0004637,19.485728 25.8759633,20.3265797 25.63,21.13983 L16,16.67862 L16,18.75066 L24.895,22.87149 C24.3673957,23.8186522 23.6689254,24.6745846 22.83,25.40202 L22.83,25.40202 Z" id="Fill" fill="#000000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
